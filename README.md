@@ -1,0 +1,2 @@
+# AndroidStudio_gitignore
+AndroidStudio_gitignore
